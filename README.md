@@ -17,9 +17,9 @@
 ## Structure of project
 ## Files and Modules and What They Do
 
-| Name                     | Description                          |
-|--------------------------|--------------------------------------|
-| `data_preparation.ipynb` | A jupyter notebook with ml models    |
-| `eda.ipynb`              | A jupyter notebook with EDA analysis |
+| Name                | Description                          |
+|---------------------|--------------------------------------|
+| `forecasting.ipynb` | A jupyter notebook with ml models    |
+| `eda.ipynb`         | A jupyter notebook with EDA analysis |
 
 
